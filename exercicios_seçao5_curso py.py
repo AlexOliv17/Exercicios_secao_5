@@ -1,2 +1,0 @@
-#exercicios seçao 05
-
